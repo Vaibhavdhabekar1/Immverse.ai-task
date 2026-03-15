@@ -3,12 +3,18 @@
         "file": "sample1.wav",
         "predicted": " This is a clean and clear English speech sample used  for evaluating the faster whisper automatic speech recognition model.  The purpose of this audio is to test how accurately  the model transcribes simple and well pronounced sentences.",
         "wer": 566.67,
-        "inference_time": 4.496
+        "inference_time": 12.673
     },
     {
         "file": "sample2.wav",
         "predicted": " This is a clean and clear English speech sample used  for evaluating the faster whisper automatic speech recognition model.  The purpose of this audio is to test how accurately  the model transcribes simple and well pronounced sentences.",
         "wer": 566.67,
-        "inference_time": 4.94
+        "inference_time": 5.297
+    },
+    {
+        "file": "sample3.wav",
+        "predicted": " Hi, I'm Vibe of AI ML Engineer.",
+        "wer": 116.67,
+        "inference_time": 6.629
     }
 ]
