@@ -1,0 +1,14 @@
+[
+    {
+        "file": "sample1.wav",
+        "predicted": " This is a clean and clear English speech sample used  for evaluating the faster whisper automatic speech recognition model.  The purpose of this audio is to test how accurately  the model transcribes simple and well pronounced sentences.",
+        "wer": 566.67,
+        "inference_time": 4.496
+    },
+    {
+        "file": "sample2.wav",
+        "predicted": " This is a clean and clear English speech sample used  for evaluating the faster whisper automatic speech recognition model.  The purpose of this audio is to test how accurately  the model transcribes simple and well pronounced sentences.",
+        "wer": 566.67,
+        "inference_time": 4.94
+    }
+]

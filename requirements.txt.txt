@@ -1,0 +1,7 @@
+faster-whisper
+pydub
+jiwer
+soundfile
+numpy
+librosa
+torch
